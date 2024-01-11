@@ -7,6 +7,6 @@ To run enter this command:
   Enter the URL like this:
   
   https://example.com
-  
 
-![Screenshot_2023-12-29_09-30-25](https://github.com/JRDPCN/Sniper/assets/136267216/0868f4e1-e5bd-4960-a7c0-493e0040b672)
+
+![Screenshot_2024-01-11_21-09-40](https://github.com/JRDPCN/Sniper/assets/136267216/8a5e40c5-8974-4d15-9b8d-91ea60c49930)
