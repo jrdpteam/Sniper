@@ -10,6 +10,7 @@ After installation, you can enter this command in the terminal:
 
 Then this will appear in the terminal:
 
-![Screenshot_2024-01-11_21-09-40](https://github.com/JRDPCN/Sniper/assets/136267216/8a5e40c5-8974-4d15-9b8d-91ea60c49930)
+![Screenshot_2024-01-13_17-39-08](https://github.com/JRDPCN/Sniper/assets/136267216/51efba0a-c9db-4f17-b389-053e6c4ff9fa)
+
 
 Now You can use Sniper everywhere,in every location/directory :)
