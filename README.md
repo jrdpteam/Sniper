@@ -7,7 +7,7 @@ Open Terminal on Your desktop. First,download this repo typing command:
 Then,go to *Sniper* directory.
 To install,enter this command:
 
-    sudo python3 setup.py
+    sudo bash setup
 
 After installation, you can enter this command in the terminal:
 
