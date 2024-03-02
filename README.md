@@ -9,6 +9,7 @@ To install,enter this command:
 
     sudo python3 setup.py
 
+Follow instalation steps.
 After installation, you can enter this command in the terminal:
 
     sudo Sniper
