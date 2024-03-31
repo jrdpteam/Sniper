@@ -1,4 +1,4 @@
-Simple DDoS tool made in Python,designed for Kali Linux. by JRDP Team
+Simple DoS tool made in Python,designed for Kali Linux. by JRDP Team
 
 Open Terminal on Your desktop. First,download this repo typing command:
 
