@@ -22,12 +22,16 @@ Run the setup script using this command:
     
     sudo python3 setup.py
 
-Follow the instalation steps.
+Follow the instructions provided during installation to complete the setup.
+
 
 ## Usage
 
 
-Once installed, Sniper can be invoked from the command line using the sniper command. Follow the instructions provided during installation to complete the setup.
+Once installed, Sniper can be invoked from the command line using this command:
+
+    sudo Sniper
+
 Features
 
    -  HTTP GET
