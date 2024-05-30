@@ -14,6 +14,10 @@ Navigate to the project directory:
 
     cd Sniper
 
+Install dependencies(may take a lot of time,depends on Your internet speed):
+
+    sudo bash install_dependencies.sh
+
 Run the setup script using this command:
     
     sudo python3 setup.py
