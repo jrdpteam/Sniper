@@ -2,7 +2,7 @@ Simple network testing tool made in Python,designed for Kali Linux. by JRDP Team
 
 Open Terminal on Your desktop. First,download this repo typing command:
 
-    git clone https://github.com/JRDPCN/Sniper
+    git clone https://github.com/jrdpteam/Sniper
 
 Then,go to *Sniper* directory.
 To install,enter this command:
